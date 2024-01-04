@@ -32,52 +32,25 @@ Powerflex PFF69-801G: FLCA rear bushing that claims to adjust camber +/- 1 degre
 
 **Rear Camber Bolts:** While not confirmed on H&R's website as fitting the Zx6 chassis users have reported using H&R TC112 camber bolts in the rear struts upper hole to gain =/- .5 degrees camber. Minimal cost for minimum gain that could possibly even out if mismatched too greatly side to side. These are eccentric so as always be sure to check for slippage
 
-Rear lower control arms (LCA): Adjustable LCAs are a relatively cheap and simple for gaining adjustable camber in the rear. There are many options with various adjustments and bushing types. Some also will have multiple mounting locations for swaybars to help tweak other handling characteristics as well. The downside to LCAs is camber changes done here will affect toe as well. While many companies exist I have list the ones that are STX legal for SCCA Auto-X below
+**Rear lower control arms (LCA):** Adjustable LCAs are a relatively cheap and simple for gaining adjustable camber in the rear. There are many options with various adjustments and bushing types. Some also will have multiple mounting locations for swaybars to help tweak other handling characteristics as well. The downside to LCAs is camber changes done here will affect toe as well. While many companies exist I have list the ones that are STX legal for SCCA Auto-X below
 
-Racer X - STX legal config available
-RSR - STX legal
-SPC - STX legal With DiF bushing installed
-Velox - STX legal config available
-Whiteline - STX legal
+Racer X - STX legal config available</br>
+RSR - STX legal</br>
+SPC - STX legal With DiF bushing installed</br>
+Velox - STX legal config available</br>
+Whiteline - STX legal</br>
 
-Rear Upper control arm (UCA): Expensive and limited choices, but allows for wider range of camber adjustment compared to other options and changes are independent of toe.
+**Rear Upper control arm (UCA):** Expensive and limited choices, but allows for wider range of camber adjustment compared to other options and changes are independent of toe.
 
-Some companies that offer adjustable UCA:
-MSI
-Racer X
+**Rear UCA bushings:** These are the cheapest option in terms of purchasing cost. However, they offer limited adjustment ( approximately +/- .75 degrees) and also usually require a shop to install them as an air hammer and press are required to remove the old bushings. These are also an extreme PITA to adjust so your alignment guy might start to hate you. They do however really tighten up the rear end with a harder compound bushing. Non-adjustable versions are also available.
 
-Rear UCA bushings: These are the cheapest option in terms of purchasing cost. However, they offer limited adjustment ( approximately +/- .75 degrees) and also usually require a shop to install them as an air hammer and press are required to remove the old bushings. These are also an extreme PITA to adjust so your alignment guy might start to hate you. They do however really tighten up the rear end with a harder compound bushing. Non-adjustable versions are also available.
-
-Companies that offer adjustable upper control arm bushings:
-Whiteline (STX legal)
-Powerflex
-
-
-
-
-Toe
+### Toe
 
 Toe can be adjusted from factory and has a large enough adjustment range for most vehicles that are not running crazy camber and/or are slammed. There are however options for adjustable toe links in the rear and a few options for aftermarket outer tie rods in the front. Outer tie rods also can help with bump steer correction on lowered vehicles.
 
-Some companies that offer adjustable outer tie rods:
-Parts Shop Max
-Racer X
-SPL
+**Outer tie rods (front):** While allowing for toe adjustment, some version may also help correct bump steer on lowered vehicles
 
-Some companies that offer adjustable rear toe arms:
-Cusco
-DME
-FT86SpeedFactory
-Megan
-Parts Shop Max
-Racer X
-SPL
-SPC
-Voodoo13
-Whiteline
-
-
-
+**Toe arms (rear):** Toe ares can either be eccentric like camber bolts or have a spherical bearings that adjust in the middle. The spericle options offer benfits such as being able to remove them without needing a new alignment as well as being less likely to slip, especially if a lock out kit is used. The trade off is more NVH as a result of sperical bearing.
 
 Useful threads regarding alignment and suspension:
 
