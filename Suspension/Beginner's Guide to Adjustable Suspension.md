@@ -52,6 +52,49 @@ Toe can be adjusted from factory and has a large enough adjustment range for mos
 
 **Toe arms (rear):** Toe ares can either be eccentric like camber bolts or have a spherical bearings that adjust in the middle. The spericle options offer benfits such as being able to remove them without needing a new alignment as well as being less likely to slip, especially if a lock out kit is used. The trade off is more NVH as a result of sperical bearing.
 
+### Alignment
+
+Alignment settings are based on a lot of factors – driver style/skill, what can you adjust, springs rates, sway bars, tire grip, car use, etc. The best way to check you alignment is to watch tire wear and use a pyrometer to ensure the tires are heating evenly across the whole width. If they aren’t you are not using the whole tire and therefore not using them to their full ability and efficiency. Below are some general starting points to reference depending on the type of driving.
+
+**Camber:**  As you turn the car rolls causing weight to be placed on the outside edge of the inside tire. To combat this you need negative camber so that when you are turning and it matters most the whole tire is in contact with the ground evenly. In general more grip equals the need for more camber. You gain negative camber through lowering as well as under compression but most of the time this is not enough. Also, since we have a McPherson strut set-up this car naturally understeers and running more front camber than rear helps combat this as well as create better turn in. It should be noted that camber is dynamic and changes while driving so it is something that needs to be taken into account and discussed with a professional (i.e. your local performance alignment shop, CSG, RCE, etc).
+
+
+**Toe:** Toe affects different things front and rear. Front toe out helps with turn in but can sacrifice some stability at high speeds in a straight line. Rear toe in can help with straight line stability at speeds as well as under breaking since the tires are both fighting to center assisting against wandering. Toe increases tire wear more than camber and should be adjusted in low increments if you want to maintain good tire wear. It should be noted that toe is dynamic and changes while driving so it is something that needs to be taken into account and discussed with a professional (i.e. your local performance alignment shop, CSG, RCE, etc).
+
+
+**Caster:** coming soon
+
+
+
+
+***OEM Specs***
+Camber
+-0.8 to 0.8 front
+-2 to -0.5 rear
+
+Toe
+-0.12 to 0.12 front
+-0.04 to 0.2 rear
+
+Caster
+5.2 to 6.7 front
+
+***Spirited driving alignment baseline***
+Camber
+-2 to -2.5 front
+-1.5 to -2 rear
+
+Toe
+Zero all around
+
+*Note: Competitive auto-x and track alignments tend to run much more aggressive but is very tire and driver dependent so I have removed those settings. Especially since I do not have much experience in that realm. A pyrometer to ensure even temp across the tire is the only way to know if your track alignment is optimized*
+
+Final Thoughts:
+
+Even for a DD alignment is important. Factory specs are broad and most places only care that all the numbers are in the green and not what they actually are. Handling matters in emergency breaking situations so having something that is set correctly is important to everyone. Not to mention .2 toe in may not be great for tire wear with you -2 camber.
+
+Find a reputable alignment shop. Know what specs you are looking for and can achieve with your set-up. Make sure the shop can work with those settings and your parts. Check the alignment before its off the rack and always get a final printout when done.
+
 Useful threads regarding alignment and suspension:
 
 Alignment FAQ
